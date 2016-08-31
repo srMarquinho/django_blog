@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/srMarquinho/django_blog.svg?branch=master)](https://travis-ci.org/srMarquinho/django_blog)
+
 # Django blog
 
 This is a Python and Django exercise with AWS deployment.
